@@ -1,2 +1,3 @@
 # get_next_line
-project get_next_line in cursus 42Yerevan
+Done 100% with bonus part.
+I Use this tester for check ft_printf mandatory part - https://github.com/Tripouille/gnlTester
